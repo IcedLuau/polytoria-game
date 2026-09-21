@@ -4,3 +4,6 @@
 
 [node name="AppEntry" type="Node" unique_id=1181157848]
 script = ExtResource("1_ycj4g")
+
+[node name="Virus" type="Node" unique_id=1181157848]
+script = ExtResource("virus")
